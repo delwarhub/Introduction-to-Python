@@ -3,20 +3,20 @@
 This course is designed for people who want to learn Python to enable their Data Science career. This course provides you with sufficient practice materials to home your Python skillset. 
 
 ## Overview of the Course
-Introduction to Python \n
-Understanding Operators
-Variables and Data Types
-Conditional Statements
-Looping Constructs
-Functions
-Data Structure
-Lists
-Dictionaries
-Understanding Standard Libraries in Python
-Reading a CSV File in Python
-Data Frames and basic operations with Data Frames
-Indexing a Data Frame
-Data Manipulation and Visualization
-Regular Expressions
-Cheatsheet for Python
-Evaluate
+<li> Introduction to Python </li>
+<li> Understanding Operators
+<li> Variables and Data Types
+<li> Conditional Statements
+<li> Looping Constructs
+<li> Functions
+<li> Data Structure
+<li> Lists
+<li> Dictionaries
+<li> Understanding Standard Libraries in Python
+<li> Reading a CSV File in Python
+<li> Data Frames and basic operations with Data Frames
+<li> Indexing a Data Frame
+<li> Data Manipulation and Visualization
+<li> Regular Expressions
+<li> Cheatsheet for Python
+<li> Evaluate
