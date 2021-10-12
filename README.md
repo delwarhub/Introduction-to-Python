@@ -3,7 +3,7 @@
 This course is designed for people who want to learn Python to enable their Data Science career. This course provides you with sufficient practice materials to home your Python skillset. 
 
 ## Overview of the Course
-Introduction to Python
+Introduction to Python \n
 Understanding Operators
 Variables and Data Types
 Conditional Statements
